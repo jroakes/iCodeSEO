@@ -12,8 +12,8 @@ We started this journey by wanting to create a Wikipedia page for "Technical Sea
 
 The goals of this documentation are:
 
-* Create Wikipedia \(sourced\) information about Technical SEO.
-* List projects that members of the SEO community have contributed that include a description \(article\) as well as clean, documented code that others may use.
+* Create Wikipedia-style \(authoritatively sourced\) information about Technical SEO.
+* List open-source projects that members of the SEO community have contributed that include a description \(article\) as well as clean, documented code that others may use.
 * Provide documentation for popular workflows and code examples in Python and JavaScript \(and others?\)
 
 ## Contributing
