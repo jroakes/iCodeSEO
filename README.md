@@ -20,11 +20,14 @@ The goals of this documentation are:
 
 We have made a connected repo [here](https://github.com/jroakes/iCodeSEO) that is public.  We strongly encourage pull requests to grow this resource.  Also, with [Gitbook ](https://www.gitbook.com/)\(the SAAS used for this documentation\), we may need to upgrade to a paid plan \($40/mo\) at some point.  That includes 5 seats.  We are looking for a couple of permanent contributors to own the Technical SEO and Javascript sections. Knowledge of Git and Wikipedia-style writing is required.  In addition, we would love to have sponsors.  Please email me at [jroakes@gmail.com](mailto:jroakes@gmail.com) if you are interested.
 
-## Sections
+## Inclusions of Code
 
-1. [Technical SEO](technical-seo/overview/)
-2. [JavaScript](javascript/overview/)
-3. [Python](python/overview/)
+To be included in the Code Examples sections, the following conditions must be true:
+
+1. The code must be explained, in an article or well-documented in the source.
+2. The code must be related to a function of [Technical SEO](technical-seo/overview/learning-center/1.-what-is-technical-seo.md).
+3. The code should be novel or not commonly available already.
+4. The code should be repeatable, easily, by others, with reasonable cost or work.
 
 
 
