@@ -21,6 +21,8 @@ Please see the [home page](../../../#contributing) for information on contributi
 
 {% page-ref page="crawling.md" %}
 
+{% page-ref page="indexing.md" %}
+
 {% page-ref page="rendering.md" %}
 
 

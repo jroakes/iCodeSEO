@@ -11,6 +11,7 @@
     * [Page Speed](technical-seo/overview/code-examples/pagespeed.md)
     * [Query Management](technical-seo/overview/code-examples/query-management.md)
     * [Crawling](technical-seo/overview/code-examples/crawling.md)
+    * [Indexing](technical-seo/overview/code-examples/indexing.md)
     * [Rendering](technical-seo/overview/code-examples/rendering.md)
 
 ## Javascript
