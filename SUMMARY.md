@@ -25,16 +25,16 @@
   * [Installation](python/overview/installation.md)
   * [Libraries](python/overview/libraries/README.md)
     * [Pandas](python/overview/libraries/pandas.md)
-* [Data Science](python/data-science/README.md)
-  * [Machine Learning](python/data-science/machine-learning.md)
-  * [Time Series](python/data-science/time-series.md)
-* [Helpful Code](python/helpful-code.md)
 * [Python Code Examples](python/code-examples/README.md)
   * [Knowledge Graph](python/code-examples/knowledge-graph.md)
   * [Page Speed](python/code-examples/pagespeed.md)
   * [Query Management](python/code-examples/query-management.md)
   * [Crawling](python/code-examples/crawling.md)
   * [Rendering](python/code-examples/rendering.md)
+* [Data Science](python/data-science/README.md)
+  * [Machine Learning](python/data-science/machine-learning.md)
+  * [Time Series](python/data-science/time-series.md)
+* [Helpful Code](python/helpful-code.md)
 
 ## R Stats
 
