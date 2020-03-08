@@ -254,8 +254,6 @@ This is a great tip from [Anthony Nelson](https://twitter.com/anthonydnelson).
 
 > One of my fave Chrome tips: on Console tab, hit Command+Shift+P to bring up shortcuts. Then type in "screenshot" and select "Capture Full Size Screenshot" - super easy way to get full sized png of a long page.
 
-[Russ Jones is not weird, he just owns a Tesla](https://moz.com/about/team/rjonesx)
-
 ## More Amazing Chrome SEO Tips <a id="moreamazingchromeseotips"></a>
 
 * Aleyda Solis has a wonderful writeup on Seach Engine Land: [Chrome’s DevTools for SEO: 10 ways to use these browser features for your SEO audits](https://searchengineland.com/chromes-devtools-seo-10-ways-use-seo-audits-266433)
