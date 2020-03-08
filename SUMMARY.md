@@ -31,3 +31,7 @@
   * [Time Series](python/data-science/time-series.md)
 * [Helpful Code](python/helpful-code.md)
 
+## R Stats
+
+* [R Stats Overview](r-stats/r-stats.md)
+
