@@ -5,7 +5,8 @@
 ## Technical SEO
 
 * [Technical SEO Overview](technical-seo/overview/README.md)
-  * [Learning Center](technical-seo/overview/learning-center.md)
+  * [Learning Center](technical-seo/overview/learning-center/README.md)
+    * [1. What is Technical SEO?](technical-seo/overview/learning-center/1.-what-is-technical-seo.md)
   * [Code Examples](technical-seo/overview/code-examples/README.md)
     * [Page Speed](technical-seo/overview/code-examples/pagespeed.md)
     * [Query Management](technical-seo/overview/code-examples/query-management.md)

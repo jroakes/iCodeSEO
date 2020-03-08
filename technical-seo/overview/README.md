@@ -4,7 +4,7 @@ description: Technical SEO Coding Resources
 
 # Technical SEO Overview
 
-{% page-ref page="learning-center.md" %}
+{% page-ref page="learning-center/" %}
 
 ## Code Examples
 
