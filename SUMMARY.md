@@ -1,14 +1,16 @@
 # Table of contents
 
-* [Development Resources for Technical SEOs](README.md)
+* [Resources for Technical SEOs](README.md)
 
 ## Technical SEO
 
 * [Technical SEO Overview](technical-seo/overview/README.md)
-  * [Rendering](technical-seo/overview/rendering.md)
-  * [Crawling](technical-seo/overview/crawling.md)
-  * [Query Management](technical-seo/overview/query-management.md)
-  * [Page Speed](technical-seo/overview/pagespeed.md)
+  * [Learning Center](technical-seo/overview/learning-center.md)
+  * [Code Examples](technical-seo/overview/code-examples/README.md)
+    * [Page Speed](technical-seo/overview/code-examples/pagespeed.md)
+    * [Query Management](technical-seo/overview/code-examples/query-management.md)
+    * [Crawling](technical-seo/overview/code-examples/crawling.md)
+    * [Rendering](technical-seo/overview/code-examples/rendering.md)
 
 ## Javascript
 

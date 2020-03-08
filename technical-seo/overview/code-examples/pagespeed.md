@@ -4,7 +4,9 @@ description: Technical SEO code focusing on Page Speed.
 
 # Page Speed
 
-## Automating PageSpeed Tests with Python
+## Python
+
+### Automating PageSpeed Tests with Python
 
 Google’s Page Speed Insights is a super useful tool to view a summary of a web page’s performance and uses both field and lab data to generate results. It is a great way to gain an overview of a handful of URLs, as it is used on a page-per-page basis. However, if you are working on a large site and wish to gain insights to scale, the API can be used to analyse a number of pages at a time, without needing to plug in the URLs individually.
 

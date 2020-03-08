@@ -4,7 +4,9 @@ description: Technical SEO code focusing on Crawling.
 
 # Crawling
 
-## Comparing two crawls using Google Colab and Screaming Frog
+## Python
+
+### Comparing two crawls using Google Colab and Screaming Frog
 
 Combining Screaming Frog, Google Colab and Google Sheets to generate change detection reports without any limit.
 
@@ -12,7 +14,7 @@ Combining Screaming Frog, Google Colab and Google Sheets to generate change dete
 | :--- | :--- | :--- | :--- |
 | [Alessio Nittoli](https://twitter.com/nittolese) | [Link](https://nitto.li/screaming-frog-colab/) |  | [Link](https://colab.research.google.com/drive/1-CwO0GkC7RizVoZVxOE6a2ldK4d7TRHR) |
 
-## Leverage Python and Google Cloud to extract meaningful SEO insights from server log data
+### Leverage Python and Google Cloud to extract meaningful SEO insights from server log data
 
 This is the first of a two-part series about how to scale your analyses to larger data sets from your server logs.
 

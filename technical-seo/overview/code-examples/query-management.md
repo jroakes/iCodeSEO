@@ -4,7 +4,9 @@ description: Technical SEO code focusing on Query Management.
 
 # Query Management
 
-## Auto-Categorizing Queries with Apriori and BERT
+## Python
+
+### Auto-Categorizing Queries with Apriori and BERT
 
 Auto-categorize Google Search Console queries semantically in 6 different languages via BERT.
 
