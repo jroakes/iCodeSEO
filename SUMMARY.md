@@ -9,6 +9,7 @@
     * [1. What is Technical SEO?](technical-seo/overview/learning-center/1.-what-is-technical-seo.md)
     * [2. Crawling](technical-seo/overview/learning-center/2.-crawling.md)
   * [Code Examples](technical-seo/overview/code-examples/README.md)
+    * [Knowledge Graph](technical-seo/overview/code-examples/knowledge-graph.md)
     * [Page Speed](technical-seo/overview/code-examples/pagespeed.md)
     * [Query Management](technical-seo/overview/code-examples/query-management.md)
     * [Crawling](technical-seo/overview/code-examples/crawling.md)

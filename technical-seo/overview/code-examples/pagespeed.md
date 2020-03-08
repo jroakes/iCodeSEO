@@ -14,3 +14,5 @@ Google’s Page Speed Insights is a super useful tool to view a summary of a web
 | :--- | :--- | :--- | :--- |
 | [Ruth Everett](https://twitter.com/rvtheverett) | [Link](https://dev.to/rvtheverett/python-and-google-s-page-speed-api-4dbi) |  | [Link](%20https://colab.research.google.com/drive/1Oe1VTocg21KIVDqROXSt15H6CoO905D0) |
 
+## R Stats
+
