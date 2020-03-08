@@ -23,7 +23,7 @@ We have made a connected repo [here](https://github.com/jroakes/iCodeSEO) that i
 ## Sections
 
 1. [Technical SEO](technical-seo/overview/)
-2. [JavaScript](javascript/overview.md)
+2. [JavaScript](javascript/overview/)
 3. [Python](python/overview/)
 
 

@@ -16,8 +16,9 @@
 
 ## Javascript
 
-* [JavaScript Overview](javascript/overview.md)
-* [Google AppScript](javascript/google-appscript.md)
+* [JavaScript Overview](javascript/overview/README.md)
+  * [Installation](javascript/overview/installation.md)
+  * [NPM](javascript/overview/npm.md)
 * [Chrome DevTools](javascript/chrome-devtools/README.md)
   * [Google Chrome SEO Without A Plugin](javascript/chrome-devtools/untitled.md)
 
