@@ -16,6 +16,8 @@
   * [NPM](javascript/overview/npm.md)
 * [Chrome DevTools](javascript/chrome-devtools/README.md)
   * [Google Chrome SEO Without A Plugin](javascript/chrome-devtools/untitled.md)
+* [JavaScript Code Examples](javascript/javascript-code-examples/README.md)
+  * [Indexing](javascript/javascript-code-examples/indexing.md)
 
 ## Python
 
@@ -27,19 +29,19 @@
   * [Machine Learning](python/data-science/machine-learning.md)
   * [Time Series](python/data-science/time-series.md)
 * [Helpful Code](python/helpful-code.md)
-* [Code Examples](python/code-examples/README.md)
+* [Python Code Examples](python/code-examples/README.md)
   * [Knowledge Graph](python/code-examples/knowledge-graph.md)
   * [Page Speed](python/code-examples/pagespeed.md)
   * [Query Management](python/code-examples/query-management.md)
   * [Crawling](python/code-examples/crawling.md)
-  * [Indexing](python/code-examples/indexing.md)
   * [Rendering](python/code-examples/rendering.md)
 
 ## R Stats
 
 * [R Stats Overview](r-stats/r-stats/README.md)
-  * [intro & Installation](r-stats/r-stats/intro-and-installation.md)
-  * [Keywords](r-stats/r-stats/keywords.md)
-  * [Log analysis](r-stats/r-stats/log-analysis.md)
-  * [Miscellaneous](r-stats/r-stats/miscellaneous.md)
+  * [Intro & Installation](r-stats/r-stats/intro-and-installation.md)
+* [R Stats Code Examples](r-stats/r-stats-code-examples/README.md)
+  * [Crawling](r-stats/r-stats-code-examples/crawling.md)
+  * [Query Management](r-stats/r-stats-code-examples/query-management.md)
+  * [Knowledge Graph](r-stats/r-stats-code-examples/knowledge-graph.md)
 

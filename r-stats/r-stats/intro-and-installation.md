@@ -1,4 +1,8 @@
-# intro & Installation
+---
+description: Some really good guides to installing R Stats and various other related tools.
+---
+
+# Intro & Installation
 
 ### R FOR SEO: SURVIVAL GUIDE
 
@@ -6,7 +10,7 @@ Introduction to the use of R for SEO, how to install, what are the most interest
 
 A great collection of the simple and most useful commands
 
-Link: [https://remibacha.com/en/r-seo-guide/](https://remibacha.com/en/r-seo-guide/)
+**Link**: [https://remibacha.com/en/r-seo-guide/](https://remibacha.com/en/r-seo-guide/)
 
-By: [Remi Bacha](https://twitter.com/remibacha) on [remibacha.com](%20https://remibacha.com/)
+**By**: [Remi Bacha](https://twitter.com/remibacha) on [remibacha.com](%20https://remibacha.com/)
 

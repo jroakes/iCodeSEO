@@ -4,8 +4,6 @@ description: Technical SEO code focusing on Indexing.
 
 # Indexing
 
-## JavaScript
-
 ### Scaling Google indexation checks with Node.js
 
 New techniques we have developed internally at Builtvisible to fetch Google indexation status data, particularly for large scale sites. Requires a free [ScraperAPI ](https://www.scraperapi.com/)account.

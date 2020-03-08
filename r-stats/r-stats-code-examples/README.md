@@ -2,7 +2,7 @@
 description: Various code examples which are relevant to aspects of Technical SEO.
 ---
 
-# Python Code Examples
+# R Stats Code Examples
 
 To be included here, the following conditions must be true:
 
@@ -15,13 +15,9 @@ Please see the [home page](../../#contributing) for information on contributing.
 
 ## Sections
 
-{% page-ref page="pagespeed.md" %}
-
-{% page-ref page="query-management.md" %}
-
 {% page-ref page="crawling.md" %}
 
-{% page-ref page="rendering.md" %}
+{% page-ref page="query-management.md" %}
 
 {% page-ref page="knowledge-graph.md" %}
 
