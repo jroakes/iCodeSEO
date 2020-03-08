@@ -8,13 +8,13 @@ description: Technical SEO Coding Resources
 
 ## Code Examples
 
-{% page-ref page="code-examples/rendering.md" %}
+{% page-ref page="../../python/code-examples/rendering.md" %}
 
-{% page-ref page="code-examples/crawling.md" %}
+{% page-ref page="../../python/code-examples/crawling.md" %}
 
-{% page-ref page="code-examples/query-management.md" %}
+{% page-ref page="../../python/code-examples/query-management.md" %}
 
-{% page-ref page="code-examples/pagespeed.md" %}
+{% page-ref page="../../python/code-examples/pagespeed.md" %}
 
 
 

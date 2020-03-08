@@ -6,7 +6,7 @@ description: Python coding resources for Technical SEO
 
 {% page-ref page="installation.md" %}
 
-{% page-ref page="pandas.md" %}
+{% page-ref page="libraries/pandas.md" %}
 
 
 

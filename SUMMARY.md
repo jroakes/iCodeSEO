@@ -8,13 +8,6 @@
   * [Learning Center](technical-seo/overview/learning-center/README.md)
     * [1. What is Technical SEO?](technical-seo/overview/learning-center/1.-what-is-technical-seo.md)
     * [2. Crawling](technical-seo/overview/learning-center/2.-crawling.md)
-  * [Code Examples](technical-seo/overview/code-examples/README.md)
-    * [Knowledge Graph](technical-seo/overview/code-examples/knowledge-graph.md)
-    * [Page Speed](technical-seo/overview/code-examples/pagespeed.md)
-    * [Query Management](technical-seo/overview/code-examples/query-management.md)
-    * [Crawling](technical-seo/overview/code-examples/crawling.md)
-    * [Indexing](technical-seo/overview/code-examples/indexing.md)
-    * [Rendering](technical-seo/overview/code-examples/rendering.md)
 
 ## Javascript
 
@@ -28,11 +21,19 @@
 
 * [Python Overview](python/overview/README.md)
   * [Installation](python/overview/installation.md)
-  * [Pandas](python/overview/pandas.md)
+  * [Libraries](python/overview/libraries/README.md)
+    * [Pandas](python/overview/libraries/pandas.md)
 * [Data Science](python/data-science/README.md)
   * [Machine Learning](python/data-science/machine-learning.md)
   * [Time Series](python/data-science/time-series.md)
 * [Helpful Code](python/helpful-code.md)
+* [Code Examples](python/code-examples/README.md)
+  * [Knowledge Graph](python/code-examples/knowledge-graph.md)
+  * [Page Speed](python/code-examples/pagespeed.md)
+  * [Query Management](python/code-examples/query-management.md)
+  * [Crawling](python/code-examples/crawling.md)
+  * [Indexing](python/code-examples/indexing.md)
+  * [Rendering](python/code-examples/rendering.md)
 
 ## R Stats
 
