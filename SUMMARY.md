@@ -35,5 +35,9 @@
 
 ## R Stats
 
-* [R Stats Overview](r-stats/r-stats.md)
+* [R Stats Overview](r-stats/r-stats/README.md)
+  * [intro & Installation](r-stats/r-stats/intro-and-installation.md)
+  * [Keywords](r-stats/r-stats/keywords.md)
+  * [Log analysis](r-stats/r-stats/log-analysis.md)
+  * [Miscellaneous](r-stats/r-stats/miscellaneous.md)
 
