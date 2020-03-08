@@ -4,8 +4,6 @@ description: Technical SEO code focusing on Crawling.
 
 # Crawling
 
-## Python
-
 ### Comparing two crawls using Google Colab and Screaming Frog
 
 Combining Screaming Frog, Google Colab and Google Sheets to generate change detection reports without any limit.
