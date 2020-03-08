@@ -6,6 +6,8 @@ description: Helpful Python Code Snippets for Technical SEOs.
 
 ## CTR Curves
 
+Useful for gathering simple Share-of-Traffic information from ranking position.  Date can be found at: [https://www.advancedwebranking.com/ctrstudy/](https://www.advancedwebranking.com/ctrstudy/).  Most major tool providers have individualized CTR curves for keywords or keyword sets.
+
 ```python
 def add_ctr(x):
     
@@ -57,6 +59,8 @@ def getUA():
 ```
 
 ## Pull Title and Description from URL
+
+Simple example of using the requests and BeautifulSoup libraries to pull `<title>` and `<meta name="description" content="..." />` from live URLs.
 
 ```python
 from bs4 import BeautifulSoup

@@ -44,4 +44,5 @@
   * [Crawling](r-stats/r-stats-code-examples/crawling.md)
   * [Query Management](r-stats/r-stats-code-examples/query-management.md)
   * [Knowledge Graph](r-stats/r-stats-code-examples/knowledge-graph.md)
+* [Contributing Content](contributing-content.md)
 
