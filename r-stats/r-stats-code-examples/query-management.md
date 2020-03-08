@@ -12,3 +12,5 @@ Method to estimate where to prioritise your SEO resources, estimating which keyw
 
 **By**: [Mark Edmondson](https://twitter.com/holomarked) on [Coding in digital analytics](https://code.markedmondson.me/)
 
+
+
