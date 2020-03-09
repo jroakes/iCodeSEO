@@ -113,3 +113,9 @@ The best place to file feature requests for Chrome DevTools is the mailing list.
 
 
 
+# Additionnal tips
+
+## Comparing raw HTML and rendered HTML
+
+Easily compare the raw HTML of a page and the rendered code with [this plugin](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob).  
+It also provides a _diff_ feature to see line by line what has been modified in the DOM by JavaScript.  
