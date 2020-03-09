@@ -8,6 +8,7 @@
   * [Learning Center](technical-seo/overview/learning-center/README.md)
     * [1. What is Technical SEO?](technical-seo/overview/learning-center/1.-what-is-technical-seo.md)
     * [2. Crawling](technical-seo/overview/learning-center/2.-crawling.md)
+    * [3. Rendering](technical-seo/overview/learning-center/3.-rendering.md)
 
 ## Javascript
 
