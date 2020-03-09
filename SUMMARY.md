@@ -16,7 +16,7 @@
   * [Installation](javascript/overview/installation.md)
   * [NPM](javascript/overview/npm.md)
 * [Chrome DevTools](javascript/chrome-devtools/README.md)
-  * [Google Chrome SEO Without A Plugin](javascript/chrome-devtools/untitled.md)
+  * [Google Chrome SEO Without A Plugin](javascript/chrome-devtools/chrome-seo-without-a-plugin.md)
 * [JavaScript Code Examples](javascript/javascript-code-examples/README.md)
   * [Indexing](javascript/javascript-code-examples/indexing.md)
 
