@@ -6,9 +6,11 @@ description: Some really good guides to installing R Stats and various other rel
 
 ### Official links
 
-[The R Foundation Official Website](https://www.r-project.org/)
+[The R Foundation Official Website](https://www.r-project.org/)  
+R is an official part of the Free Software Foundation's GNU project,
 
-Most popular IDE :  [RSTUDIO](https://rstudio.com/) \(open source\)  
+[RStudio](https://rstudio.com/)   
+Most popular development environment \(IDE\) for R. It can also run Python. Desktop version is open source.  
 Download link: [https://rstudio.com/products/rstudio/](https://rstudio.com/products/rstudio/)
 
 
