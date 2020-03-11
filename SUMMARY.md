@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Resources for Technical SEOs](README.md)
+* [SEO Datasets](seo-datasets.md)
 
 ## Technical SEO
 
