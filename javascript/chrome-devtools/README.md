@@ -1,5 +1,9 @@
 # Chrome DevTools
 
+{% hint style="danger" %}
+This page is a mirror of [https://developers.google.com/web/tools/chrome-devtools](https://developers.google.com/web/tools/chrome-devtools) and needs to be updated.
+{% endhint %}
+
 ## Chrome DevTools
 
 Chrome DevTools is a set of web developer tools built directly into the [Google Chrome](https://www.google.com/chrome/) browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
