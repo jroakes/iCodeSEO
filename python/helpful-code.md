@@ -182,3 +182,5 @@ class SEOSitemapSpider(SitemapSpider):
         )
 ```
 
+Items that contain multiple elements, like multiple H2 tags in one page will be listed as one string separated by two @ signs e.g. `first h2 tag@@second tag@@third tag` You simply have to split by "@@" to get a list of elements per page. 
+
