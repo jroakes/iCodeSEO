@@ -30,3 +30,14 @@ Google SERPs for `<make model> for sale` and `<make model> price` keywords for f
 | :--- | :--- | :--- |
 | [Dan Leibson](https://twitter.com/DanLeibson) | [Link](https://www.localseoguide.com/open-sourcing-2017-local-seo-ranking-factors-data/) | [Dataset on Google Drive](https://drive.google.com/file/d/12vCCNOs_HrLOK4VC2fpeD_eYFIB3pIs7/view?usp=sharing) |
 
+### Recipes of Popular Dishes: YouTube and Google SERPs
+
+243 national dishes, with two keyword variations each `<dish> recipe` and `how to make <dish>`.   
+YouTube provides a much richer dataset than Google, as it contains video and channel statistics to provide context and metadata for the videos \(and channels\).  
+Both Google and YouTube SERPs are provided for the same keywords.  
+
+
+| Author | Article | Source | Notebook |
+| :--- | :--- | :--- | :--- |
+| [Elias Dabbas](https://github.com/eliasdabbas) |  | [Dataset on Kaggle](https://www.kaggle.com/eliasdabbas/recipes-search-engine-results-data) | [Kaggle Tutorial](https://www.kaggle.com/eliasdabbas/recipes-keywords-ranking-on-google-and-youtube) |
+
