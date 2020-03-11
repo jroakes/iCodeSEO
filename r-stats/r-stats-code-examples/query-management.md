@@ -20,7 +20,7 @@ Using r and google’s keyword planner to evaluate size and competitiveness of i
 
 **Link**: [https://keyword-hero.com/markets-go-using-r-googles-keyword-planner-evaluate-size-competitiveness-international-markets](https://keyword-hero.com/markets-go-using-r-googles-keyword-planner-evaluate-size-competitiveness-international-markets)
 
-**By:** [Max Braun](https://www.linkedin.com/in/max-braun-3b1742158/) \(tbc\) on [Keyword Hero](%20https://keyword-hero.com/)
+**By:** Max  \(tbc\) on [Keyword Hero](%20https://keyword-hero.com/)
 
 
 
