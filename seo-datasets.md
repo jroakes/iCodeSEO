@@ -26,3 +26,13 @@ Google SERPs for `<make model> for sale` and `<make model> price` keywords for f
 | :--- | :--- | :--- | :--- |
 | [Elias Dabbas](https://github.com/eliasdabbas) |  | [Dataset on Kaggle](https://www.kaggle.com/eliasdabbas/google-search-results-pages-used-cars-us) | [Kaggle Tutorial](https://www.kaggle.com/eliasdabbas/search-engine-results-pages-serps-research) |
 
+### Crawl Datasets
+
+#### Common Crawl
+
+Open repository of web crawl data that can be accessed and analyzed by anyone.
+
+| Author | Source |
+| :--- | :--- |
+| [Common Crawl Team](https://commoncrawl.org/about/team/) | [www](https://commoncrawl.org/) \(direct download\) |
+
