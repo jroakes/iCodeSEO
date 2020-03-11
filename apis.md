@@ -1,6 +1,6 @@
 # APIs
 
-### SEO Tools APIs
+### SEO APIs
 
 | Providers | API  Home | Purpose |
 | :--- | :--- | :--- |
