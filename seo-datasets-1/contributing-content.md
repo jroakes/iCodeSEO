@@ -21,19 +21,19 @@ Here are a few points about pages:
 
 #### If the parent page is left blank, it will include a section listing of children pages.
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 #### 
 
 #### Key page information should be filled just like a normal web page 
 
-![](.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 #### Use the available content types to make the page as clear as possible.
 
 With this said, it is critical to keep consistently of formatting between sections.  For a specific content type, if a convention is used in one section, it should be used in all.  Users should expect the same experience and understanding of where to find things across sections.
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ### 
 
@@ -41,7 +41,7 @@ With this said, it is critical to keep consistently of formatting between sectio
 
 **&lt;Language&gt; Overview** sections are areas of training for the language.  This should include information on Installation, libraries, etc.  major thematic areas within a language can be broken out into separate sections.  In many cases it is a good idea to link to really well done resources online covering different aspects for a language.  If we are referencing a resource online, below is the correct format:
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 Where the resources online are narrowly relevant to Technical SEO needs, we should provide the content tailored to typical workflows.
 
@@ -60,7 +60,7 @@ All code examples sections should be organized into consistent major thematic ar
 
 #### Format for code examples:
 
-![](.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 
 

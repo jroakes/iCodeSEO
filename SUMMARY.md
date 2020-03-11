@@ -50,6 +50,6 @@
 
 * [SERP Datasets](seo-datasets-1/serp-datasets.md)
 * [Crawl Datasets](seo-datasets-1/crawl-datasets.md)
-* [Contributing Content](contributing-content.md)
-* [APIs](apis.md)
+* [Contributing Content](seo-datasets-1/contributing-content.md)
+* [APIs](seo-datasets-1/apis.md)
 
