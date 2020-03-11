@@ -29,7 +29,5 @@ To be included in the Code Examples sections, the following conditions must be t
 3. The code should be novel or not commonly available already.
 4. The code should be repeatable, easily, by others, with reasonable cost or work.
 
-{% page-ref page="seo-datasets.md" %}
-
 
 
