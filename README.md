@@ -33,7 +33,3 @@ To be included in the Code Examples sections, the following conditions must be t
 
 
 
-![](.gitbook/assets/icodeseo512x512.png)
-
-![](.gitbook/assets/icodeseo192x192.png)
-

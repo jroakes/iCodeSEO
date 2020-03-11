@@ -46,5 +46,10 @@
   * [Crawling](r-stats/r-stats-code-examples/crawling.md)
   * [Query Management](r-stats/r-stats-code-examples/query-management.md)
   * [Knowledge Graph](r-stats/r-stats-code-examples/knowledge-graph.md)
+
+## SEO Datasets <a id="seo-datasets-1"></a>
+
+* [SERP Datasets](seo-datasets-1/serp-datasets.md)
+* [Crawl Datasets](seo-datasets-1/crawl-datasets.md)
 * [Contributing Content](contributing-content.md)
 
