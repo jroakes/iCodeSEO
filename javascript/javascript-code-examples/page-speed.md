@@ -4,7 +4,7 @@ description: Technical SEO code focusing on Page Speed.
 
 # Page Speed
 
-## Aggregate & Automate Performance Reporting With Lighthouse & Google Data Studio
+### Aggregate & Automate Performance Reporting With Lighthouse & Google Data Studio
 
 This tool automates Google Lighthouse reporting using NodeJS + Puppeteer  and leverage Cloud SQL in order allow visualizing in Google Data Studio
 
