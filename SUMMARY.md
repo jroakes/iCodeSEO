@@ -18,7 +18,8 @@
 * [Chrome DevTools](javascript/chrome-devtools/README.md)
   * [Google Chrome SEO Without A Plugin](javascript/chrome-devtools/chrome-seo-without-a-plugin.md)
 * [JavaScript Code Examples](javascript/javascript-code-examples/README.md)
-  * [Indexing](javascript/javascript-code-examples/indexing.md)
+  * [Indexing](javascript/javascript-code-examples/indexing/README.md)
+    * [Page Speed](javascript/javascript-code-examples/indexing/page-speed.md)
 
 ## Python
 
@@ -31,7 +32,8 @@
   * [Page Speed](python/code-examples/pagespeed.md)
   * [Query Management](python/code-examples/query-management.md)
   * [Crawling](python/code-examples/crawling.md)
-  * [Rendering](python/code-examples/rendering.md)
+  * [Rendering](python/code-examples/rendering/README.md)
+    * [Data Extraction](python/code-examples/rendering/data-extraction.md)
 * [Data Science](python/data-science/README.md)
   * [Machine Learning](python/data-science/machine-learning.md)
   * [Time Series](python/data-science/time-series.md)
