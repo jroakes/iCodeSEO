@@ -18,8 +18,8 @@
 * [Chrome DevTools](javascript/chrome-devtools/README.md)
   * [Google Chrome SEO Without A Plugin](javascript/chrome-devtools/chrome-seo-without-a-plugin.md)
 * [JavaScript Code Examples](javascript/javascript-code-examples/README.md)
-  * [Page Speed](javascript/javascript-code-examples/page-speed.md)
-  * [Indexing](javascript/javascript-code-examples/indexing.md)
+  * [Indexing](javascript/javascript-code-examples/indexing/README.md)
+    * [Page Speed](javascript/javascript-code-examples/indexing/page-speed.md)
 
 ## Python
 

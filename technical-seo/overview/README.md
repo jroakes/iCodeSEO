@@ -8,7 +8,7 @@ description: Technical SEO Coding Resources
 
 ## Code Examples
 
-{% page-ref page="../../python/code-examples/rendering/" %}
+{% page-ref page="../../python/code-examples/rendering.md" %}
 
 {% page-ref page="../../python/code-examples/crawling.md" %}
 
