@@ -10,5 +10,5 @@ This tool automates Google Lighthouse reporting using NodeJS + Puppeteer  and le
 
 | Author | Article | Source | Notebook |
 | :--- | :--- | :--- | :--- |
-| Dan Leibson | [Link](https://www.localseoguide.com/aggregate-automate-performance-reporting-with-lighthouse-google-data-studio/) |  | [Link](https://github.com/LocalSEOGuide/lighthouse-reporter) |
+| Dan Leibson | [Link](https://www.localseoguide.com/aggregate-automate-performance-reporting-with-lighthouse-google-data-studio/) | [Link](https://github.com/LocalSEOGuide/lighthouse-reporter) |  |
 

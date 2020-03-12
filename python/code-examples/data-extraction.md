@@ -10,7 +10,7 @@ This project uses Python and Selenium in order to extract data from the People A
 
 | Author | Article | Source | Notebook |
 | :--- | :--- | :--- | :--- |
-| Alessio Nittoli | [Link](https://nitto.li/scraping-people-also-asked/) |  | [Link](https://github.com/nittolese/gquestions) |
+| Alessio Nittoli | [Link](https://nitto.li/scraping-people-also-asked/) | [Link](https://github.com/nittolese/gquestions) |  |
 
 
 
