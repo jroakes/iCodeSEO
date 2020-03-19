@@ -1,8 +1,8 @@
 # APIs
 
-### SEO APIs
+### SEO Tools APIs
 
-| Providers | API  Home | Purpose |
+|  |  |  |
 | :--- | :--- | :--- |
 | SEMrush | [www](https://www.semrush.com/api-documentation/) | generic |
 | Ahrefs | [www](https://ahrefs.com/api) | generic |
@@ -11,9 +11,12 @@
 | OnCrawl | [www](http://developer.oncrawl.com/) | Get data from your account |
 | SEOmoz | [www](https://moz.com/api) | generic |
 
-### 
+### Google APIs
 
-|  |  |
+| . |  |
 | :--- | :--- |
+| Google Analytics | [www](https://developers.google.com/analytics/devguides/reporting/core/v4) |
+| Google Search Console | [www](https://developers.google.com/webmaster-tools) |
+
 
 
