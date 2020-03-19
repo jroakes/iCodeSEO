@@ -1,4 +1,4 @@
-# APIs
+# APIs documentation
 
 ### SEO Tools APIs
 
