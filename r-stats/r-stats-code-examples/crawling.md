@@ -16,9 +16,17 @@ description: Technical SEO code focusing on Crawling.
 
 Determine what pages on your site might be seen as authoritative by search engines by computing your Internal PageRank.
 
-**Link:** [**https://searchengineland.com/improve-internal-linking-calculate-internal-pagerank-r-246883**](https://searchengineland.com/improve-internal-linking-calculate-internal-pagerank-r-246883)\*\*\*\*
+**Link:** [https://searchengineland.com/improve-internal-linking-calculate-internal-pagerank-r-246**883**](https://searchengineland.com/improve-internal-linking-calculate-internal-pagerank-r-246883)\*\*\*\*
 
 **By** [Paul Shapiro](https://twitter.com/fighto) on [https://searchengineland.com/](https://searchengineland.com/)
+
+## Crawling & metadata extraction with RCrawler
+
+How to crawl a website using Rcrawler package 
+
+**Link:** [https://www.gokam.co.uk/seo-crawling-metadata-extraction-with-r-rcrawler/](https://www.gokam.co.uk/seo-crawling-metadata-extraction-with-r-rcrawler/)
+
+**By**: [François JOLY](https://twitter.com/tuf)
 
 ## Classic Packages for Web Crawling
 

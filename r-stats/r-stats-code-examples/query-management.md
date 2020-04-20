@@ -22,5 +22,13 @@ Using r and google’s keyword planner to evaluate size and competitiveness of i
 
 **By:** Max  \(tbc\) on [Keyword Hero](%20https://keyword-hero.com/)
 
+### **A**utomate Google Search Console data downloads with R
+
+A guide on scheduling searchConsoleR to save your data to a database
+
+**Link**: [https://www.rubenvezzoli.online/automate-google-search-console-downloads/](https://www.rubenvezzoli.online/automate-google-search-console-downloads/)
+
+**By:** [Ruben Vezzoli](https://twitter.com/rubenvezzoli/)  on [https://www.rubenvezzoli.online/](https://www.rubenvezzoli.online/)
+
 
 
