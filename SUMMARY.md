@@ -53,6 +53,7 @@
 
 * [SERP Datasets](seo-datasets-1/serp-datasets.md)
 * [Crawl Datasets](seo-datasets-1/crawl-datasets.md)
+* [Sitemap Datasets](seo-datasets-1/sitemap-datasets.md)
 * [APIs documentation](seo-datasets-1/apis.md)
 
 ## About
