@@ -20,7 +20,7 @@ Using r and google’s keyword planner to evaluate size and competitiveness of i
 
 **Link**: [https://keyword-hero.com/markets-go-using-r-googles-keyword-planner-evaluate-size-competitiveness-international-markets](https://keyword-hero.com/markets-go-using-r-googles-keyword-planner-evaluate-size-competitiveness-international-markets)
 
-**By:** Max  \(tbc\) on [Keyword Hero](%20https://keyword-hero.com/)
+**By:** Max on [Keyword Hero](%20https://keyword-hero.com/)
 
 ### **A**utomate Google Search Console data downloads with R
 
@@ -30,5 +30,15 @@ A guide on scheduling searchConsoleR to save your data to a database
 
 **By:** [Ruben Vezzoli](https://twitter.com/rubenvezzoli/)  on [https://www.rubenvezzoli.online/](https://www.rubenvezzoli.online/)
 
+## How to enhance keyword exploration in R with googleSuggestQueriesR package
 
+Guide how to research similar search queries at scale with R
+
+* broad keywords exploration
+* customizing recommendations
+* specific topic exploration
+
+Link: [https://leszeksieminski.me/r/keyword-exploration-googlesuggestqueriesr/](https://leszeksieminski.me/r/keyword-exploration-googlesuggestqueriesr/)
+
+By: [Leszek Siemiński  ](https://www.linkedin.com/in/leszek-sieminski/)
 
